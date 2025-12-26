@@ -1,6 +1,4 @@
-# tp3
-
-Rapport TP3
+# Rapport TP3
 
 Description:
     ce projet est pour creer un formulaire pour les produit et l'ajouter au panier
